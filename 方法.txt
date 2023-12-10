@@ -1,0 +1,16 @@
+1，注册网站：https://glitch.com/
+2、新建glitch－hello-node
+3、删除全部文件上传app.js和package
+4、点share
+5、配置地址：XXXshare的地址
+   端口：443
+   uuid:
+传输：ws
+层安全：tls
+
+Path:/
+Host:XXXshare的地址
+不检查服务器证书
+SNI:XXXshare的地址
+
+******千万不可测速
